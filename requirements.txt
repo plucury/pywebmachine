@@ -1,0 +1,4 @@
+Routes==2.1
+WebOb==1.4.1
+repoze.lru==0.6
+wsgiref==0.1.2
